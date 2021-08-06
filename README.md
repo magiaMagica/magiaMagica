@@ -15,6 +15,10 @@
 
 <img align="center" alt="magia-windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
-<img align="center" alt="Gio-Apple" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
+<img align="center" alt="Android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
 </div>
 
+##
+
+
+![Snake animation](https://github.com/rafaballerini/magiaMagica/blob/output/github-contribution-grid-snake.svg)
