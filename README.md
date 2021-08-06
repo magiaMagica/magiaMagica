@@ -21,4 +21,4 @@
 ##
 
 
-![Snake animation](https://github.com/rafaballerini/magiaMagica/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/magiaMagica/magiaMagica/blob/output/github-contribution-grid-snake.svg)
