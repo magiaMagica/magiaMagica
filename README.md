@@ -1,8 +1,7 @@
-### Olá Bem Vindo ao Meu Perfil
+<img src="https://discord.c99.nl/widget/theme-4/295202696057716736.png"/>
 
-#### 🗂 Projetos
-* Gravy (privado)
-* Aqua (logo logo open source)
+
+
 ##
 <div>
   <a href="https://github.com/magiaMagica">
