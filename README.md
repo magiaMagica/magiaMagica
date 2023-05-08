@@ -11,8 +11,9 @@
 <a href= "https://github.com/magiaMagica"> <img src= "https://streak-stats.demolab.com?user=magiaMagica&theme=midnight-purple&border_radius=10&mode=weekly&border=EBDCE7">
 
 ##
-<div>
+<div style="display: inline_block" align="center">
 <img align="middle" alt="magia-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+</div>
 
 
 <h1 textFamily= "Courier New" monospace> Dantes</h1>
