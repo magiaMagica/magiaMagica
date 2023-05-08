@@ -1,4 +1,4 @@
-<div align= 'center">
+<div style="display: inline_block align= 'center">
 <a href= "https://discord.com/users/295202696057716736"><img width= "200" height= "100" src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Offline"/>
 
 
