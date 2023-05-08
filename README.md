@@ -1,5 +1,5 @@
 
-<a href="https://github.com/magiaMagica"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&size=30&pause=1000&color=7B0CF7&width=435&lines=%22UwI%22" alt="Typing SVG" /></a>
+<a href="https://github.com/magiaMagica"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&size=30&pause=1000&color=7B0CF7&width=435&lines=%22UwU%22" alt="Typing SVG" /></a>
 <h5>I'm iniciant on HTML, CSS and JS and thinking about PY. My Nickname is Dante but it's nor my real name, currently im just studying</h5>
 
 <hr>
