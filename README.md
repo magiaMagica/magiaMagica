@@ -12,7 +12,9 @@
 
 ##
 <div style="display: inline_block" align="center">
-<img align="middle" alt="magia-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img align="center" alt="magia-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+<img alt= "magia-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+          
 </div>
 
 
