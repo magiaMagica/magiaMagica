@@ -14,4 +14,4 @@
 <img align="center" alt="magia-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 
 
-<h1 textFamily= "Times New Roman" Times, Arial> Dantes</h1>
+<h1 textFamily= "Courier New" monospace> Dantes</h1>
