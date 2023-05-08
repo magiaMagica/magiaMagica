@@ -4,11 +4,12 @@
 
 ##
 <div>
+<a href= "https://github.com/magiaMagica"> <img src= "https://streak-stats.demolab.com?user=magiaMagica&theme=midnight-purple&border_radius=10&mode=weekly&border=EBDCE7">
   <a href="https://github.com/magiaMagica">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=magiaMagica&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiaMagica&theme=dark"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magiaMagica&theme=dracula"/>
 </div>
-<a href= "https://github.com/magiaMagica"> <img src= "https://streak-stats.demolab.com?user=magiaMagica&theme=midnight-purple&border_radius=10&mode=weekly&border=EBDCE7">
+
 
 ##
 <div style="display: inline_block" align="center">
