@@ -1,6 +1,6 @@
 <a href= "https://discord.com/users/295202696057716736"><img src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Offline"/>
 
-<hr> // literally an line break in the middle of the code randomly XD
+<hr> ## literally an line break in the middle of the code randomly XD
 
 ##
 <div>
