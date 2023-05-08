@@ -1,5 +1,5 @@
 <a href="https://github.com/magiaMagica"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&size=30&pause=1000&color=7B0CF7&width=435&lines=About+%22Dante%22" alt="Typing SVG" /></a>
-<h3>I'm iniciant on HTML, CSS and JS and thinking about py. My Nickname is Dante but it's nor my real name, currently im studying and not have a job :(</h3>
+<h2>I'm iniciant on HTML, CSS and JS and thinking about py. My Nickname is Dante but it's nor my real name, currently im studying and not have a job :(</h3>
 
 
 
@@ -21,4 +21,3 @@
 
 <img height= "30" width= "30" alt= "magia-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img height= "30" width= "30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<iframe= "https://emupedia.net/emupedia-game-minecraft-classic/" />
