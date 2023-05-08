@@ -1,6 +1,6 @@
 <a href= "https://discord.com/users/295202696057716736"><img src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Offline"/>
 
-
+<hr> // literally an line break in the middle of the code randomly XD
 
 ##
 <div>
@@ -8,7 +8,6 @@
 <hr>
   <a href="https://github.com/magiaMagica">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=magiaMagica&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<hr>
  
 </div>
 
