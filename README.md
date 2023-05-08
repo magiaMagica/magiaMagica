@@ -12,17 +12,6 @@
 ##
 <div>
 <img align="center" alt="magia-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-.   
-<img align="center" alt="magia-njs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-. 
-<img align="center" alt="magia-vsc" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-.   
-<img align="center" alt="magia-windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-.
-<img align="center" alt="Android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-</div>
-
-##
 
 
-![Snake animation](https://github.com/magiaMagica/magiaMagica/blob/output/github-contribution-grid-snake.svg)
+<h1 textFamily= "Times New Roman" Times, Arial> Dantes</h1>
