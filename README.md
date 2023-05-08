@@ -1,4 +1,4 @@
-<img src="https://discord.c99.nl/widget/theme-4/295202696057716736.png"/>
+<a href= "https://discord.com/users/295202696057716736"><img src="https://lanyard.cnrad.dev/api/295202696057716736"/></a href>
 
 
 
