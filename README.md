@@ -1,5 +1,5 @@
 <div style="display: inline_block" align= "center">
-<a href= "https://discord.com/users/295202696057716736"><img width= "300" height= "200" src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Offline"/>
+<a href= "https://discord.com/users/295202696057716736"><img width= "250" height= "200" src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Offline"/>
 
 
 <a href="https://github.com/magiaMagica"><img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&size=30&pause=1000&color=7B0CF7&width=435&lines=About+%22Dante%22" alt="Typing SVG" /></a>
