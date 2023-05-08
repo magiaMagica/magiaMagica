@@ -2,7 +2,7 @@
 <h5>I'm iniciant on HTML, CSS and JS and thinking about PY. My Nickname is Dante but it's nor my real name, currently im just studying</h5>
 
 <hr>
-<a href= "https://discord.com/users/295202696057716736"><img src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Offline"/>
+<a href= "https://discord.com/users/295202696057716736"><img src="https://lanyard.cnrad.dev/api/295202696057716736?bg=151515&borderRadius=10px&idleMessage=Currently+Offline"/>
 
 <hr> 
 
